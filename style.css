@@ -15,10 +15,12 @@ body {
 
 .container {
     max-width: 370px;
-    margin: 0 20px;
+    margin: 0 25px;
     /* height: 500px; */
     background-color: white;
+    border: 1px solid hsl(0, 0%, 7%);
     border-radius: 15px;
+    box-shadow: 9px 9px 0px hsl(0, 0%, 7%);
 }
 
 .card {
